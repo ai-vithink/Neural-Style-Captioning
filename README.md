@@ -24,7 +24,7 @@
 ```sh
  run cap.ipynb
 ```
-### Links refferd
+### Links referred
 [Tokenizing](https://keras.io/preprocessing/text/).
 
 
